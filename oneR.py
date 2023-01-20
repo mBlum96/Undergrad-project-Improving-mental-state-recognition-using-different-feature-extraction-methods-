@@ -28,11 +28,12 @@ def oneR(data):
       continue
 
     # create a pivot table of the attribute and the labels
-    pivot = data[[attr, 'Label']].pivot_table(index=attr, values='Label', aggfunc='mean')
+    pivot = pd.crosstab(data[attr], data['Label'])
 
     # calculate the error rate for the attribute
-    error = data[attr].map(pivot['Label']).fillna(data['Label'].mean())
-    error = 1 - error.eq(data['Label']).mean()
+    error = 1 - pivot.values.trace() / data.shape[0]
+
+
 
     # if the error is less than the current minimum, update the minimum and best attribute
     if error < min_error:
@@ -84,7 +85,9 @@ def selectBestAttribute(data):
 
 #main function that calls the oneR function and then use naive bayes to classify the data
 #adds the attribute to the list of attributes to be used in the naive bayes classifier
-#stops when the classification does not improve above 0.5 error
+#if the naive bayes classifier does not improve, don't add the attribute to the list
+
+
 
 def main():
   # read in the data
@@ -112,20 +115,23 @@ def main():
   while True:
     # call the oneR function to get the best attribute and the minimum error
     best_attr, min_error = selectBestAttribute(data)
+    # print("min error is ",min_error)
+    # print("curr best att is :", best_attr)
 
-    # #if the difference between the error and the previous error is less than 0.5 percent, stop iterating
-    # if (prev_error - min_error) < 0.005:
-    #   break
+    
+    # remove the best attribute from the data
+    data = data.drop(best_attr, axis=1)
+
 
     # if the error is greater than the previous error, stop iterating
     if min_error > prev_error:
-      break
+    #   break
+        continue
 
     # add the best attribute to the list of attributes
     attributes.append(best_attr)
 
-    # remove the best attribute from the data
-    data = data.drop(best_attr, axis=1)
+    
 
     # update the previous error and best attribute
     prev_error = min_error
@@ -154,7 +160,7 @@ def main():
   test_label = test['Label']
 
   # create a naive bayes classifier
-  clf = GaussianNB()
+  clf = GaussianNB.MultinomialNB()
 
   # train the classifier
   clf.fit(train_attr, train_label)
