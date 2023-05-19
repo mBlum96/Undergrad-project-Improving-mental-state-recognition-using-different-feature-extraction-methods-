@@ -3,7 +3,7 @@ from sklearn.model_selection import cross_val_score
 from sklearn.preprocessing import LabelEncoder
 from sklearn.tree import DecisionTreeClassifier
 
-def one_r_feature_selector(data, target_col, max_error=0.5):
+def one_r_feature_selector(data, target_col, max_error=0.43):
     """
     Use OneR algorithm to select features.
     Only features with an error rate less than the maximum allowable error are added.

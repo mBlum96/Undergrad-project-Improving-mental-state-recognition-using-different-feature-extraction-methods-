@@ -12,4 +12,5 @@ def run_naive_bayes(train, test, selected_feature):
     gnb.fit(X_train, y_train)
 
     y_pred = gnb.predict(X_test)
+    
     return classification_report(y_test, y_pred)
