@@ -1,0 +1,2965 @@
+Feature: lag1_mean_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_h2h1_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_h2h1_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_h2h1_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_h2h1_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_q1_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_q1_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_q1_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_q1_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_q2_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_q2_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_q2_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_q2_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q1q2_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q1q2_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q1q2_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q1q2_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q1q3_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q1q3_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q1q3_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q1q3_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q1q4_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q1q4_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q1q4_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q1q4_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q2q3_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q2q3_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q2q3_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q2q3_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q2q4_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q2q4_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q2q4_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_mean_d_q2q4_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_std_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_std_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_std_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_std_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_std_d_h2h1_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_std_d_h2h1_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_std_d_h2h1_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_std_d_h2h1_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_skew_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_skew_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_skew_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_skew_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_kurt_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_kurt_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_kurt_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_kurt_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_h2h1_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_h2h1_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_h2h1_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_h2h1_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_q1_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_q1_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_q1_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_q1_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_q2_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_q2_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_q2_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_q2_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q1q2_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q1q2_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q1q2_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q1q2_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q1q3_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q1q3_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q1q3_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q1q3_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q1q4_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q1q4_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q1q4_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q1q4_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q2q3_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q2q3_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q2q3_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q2q3_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q2q4_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q2q4_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q2q4_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_max_d_q2q4_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_h2h1_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_h2h1_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_h2h1_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_h2h1_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_q1_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_q1_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_q1_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_q1_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_q2_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_q2_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_q2_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_q2_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q1q2_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q1q2_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q1q2_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q1q2_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q1q3_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q1q3_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q1q3_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q1q3_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q1q4_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q1q4_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q1q4_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q1q4_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q2q3_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q2q3_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q2q3_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q2q3_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q2q4_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q2q4_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q2q4_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_min_d_q2q4_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_covM_0_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_covM_0_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_covM_0_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_covM_0_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_covM_1_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_covM_1_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_covM_1_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_covM_2_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_covM_2_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_covM_3_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_eigenval_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_eigenval_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_eigenval_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_eigenval_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_logcovM_0_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_logcovM_0_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_logcovM_0_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_logcovM_0_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_logcovM_1_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_logcovM_1_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_logcovM_1_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_logcovM_2_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_logcovM_2_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_logcovM_3_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_topFreq_1_0
+Accuracy: 0.46908602150537637
+
+Feature: lag1_topFreq_2_0
+Accuracy: 0.40860215053763443
+
+Feature: lag1_topFreq_3_0
+Accuracy: 0.4018817204301075
+
+Feature: lag1_topFreq_4_0
+Accuracy: 0.3817204301075269
+
+Feature: lag1_topFreq_5_0
+Accuracy: 0.4018817204301075
+
+Feature: lag1_topFreq_6_0
+Accuracy: 0.3978494623655914
+
+Feature: lag1_topFreq_7_0
+Accuracy: 0.3844086021505376
+
+Feature: lag1_topFreq_8_0
+Accuracy: 0.375
+
+Feature: lag1_topFreq_9_0
+Accuracy: 0.3817204301075269
+
+Feature: lag1_topFreq_10_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_topFreq_1_1
+Accuracy: 0.37768817204301075
+
+Feature: lag1_topFreq_2_1
+Accuracy: 0.40725806451612906
+
+Feature: lag1_topFreq_3_1
+Accuracy: 0.3911290322580645
+
+Feature: lag1_topFreq_4_1
+Accuracy: 0.37231182795698925
+
+Feature: lag1_topFreq_5_1
+Accuracy: 0.385752688172043
+
+Feature: lag1_topFreq_6_1
+Accuracy: 0.3870967741935484
+
+Feature: lag1_topFreq_7_1
+Accuracy: 0.40053763440860213
+
+Feature: lag1_topFreq_8_1
+Accuracy: 0.375
+
+Feature: lag1_topFreq_9_1
+Accuracy: 0.41801075268817206
+
+Feature: lag1_topFreq_10_1
+Accuracy: 0.37768817204301075
+
+Feature: lag1_topFreq_1_2
+Accuracy: 0.4018817204301075
+
+Feature: lag1_topFreq_2_2
+Accuracy: 0.47580645161290325
+
+Feature: lag1_topFreq_3_2
+Accuracy: 0.4798387096774194
+
+Feature: lag1_topFreq_4_2
+Accuracy: 0.46908602150537637
+
+Feature: lag1_topFreq_5_2
+Accuracy: 0.489247311827957
+
+Feature: lag1_topFreq_6_2
+Accuracy: 0.4879032258064516
+
+Feature: lag1_topFreq_7_2
+Accuracy: 0.46908602150537637
+
+Feature: lag1_topFreq_8_2
+Accuracy: 0.4650537634408602
+
+Feature: lag1_topFreq_9_2
+Accuracy: 0.5120967741935484
+
+Feature: lag1_topFreq_10_2
+Accuracy: 0.45698924731182794
+
+Feature: lag1_topFreq_1_3
+Accuracy: 0.4206989247311828
+
+Feature: lag1_topFreq_2_3
+Accuracy: 0.41801075268817206
+
+Feature: lag1_topFreq_3_3
+Accuracy: 0.3924731182795699
+
+Feature: lag1_topFreq_4_3
+Accuracy: 0.39381720430107525
+
+Feature: lag1_topFreq_5_3
+Accuracy: 0.4099462365591398
+
+Feature: lag1_topFreq_6_3
+Accuracy: 0.3709677419354839
+
+Feature: lag1_topFreq_7_3
+Accuracy: 0.3629032258064516
+
+Feature: lag1_topFreq_8_3
+Accuracy: 0.3629032258064516
+
+Feature: lag1_topFreq_9_3
+Accuracy: 0.3548387096774194
+
+Feature: lag1_topFreq_10_3
+Accuracy: 0.3844086021505376
+
+Feature: lag1_freq_010_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_020_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_030_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_041_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_051_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_061_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_071_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_081_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_091_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_101_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_111_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_122_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_132_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_142_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_152_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_162_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_172_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_182_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_193_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_203_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_213_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_223_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_233_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_243_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_253_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_264_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_274_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_284_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_294_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_304_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_314_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_324_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_334_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_345_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_355_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_365_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_375_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_385_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_395_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_405_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_416_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_426_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_436_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_446_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_456_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_466_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_476_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_486_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_517_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_527_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_537_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_547_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_557_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_568_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_578_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_588_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_598_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_608_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_618_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_628_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_639_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_649_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_659_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_669_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_679_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_689_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_699_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_709_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_720_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_730_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_740_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_750_0
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_010_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_020_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_030_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_041_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_051_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_061_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_071_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_081_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_091_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_101_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_111_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_122_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_132_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_142_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_152_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_162_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_172_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_182_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_193_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_203_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_213_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_223_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_233_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_243_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_253_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_264_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_274_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_284_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_294_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_304_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_314_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_324_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_334_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_345_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_355_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_365_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_375_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_385_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_395_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_405_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_416_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_426_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_436_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_446_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_456_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_466_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_476_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_486_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_517_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_527_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_537_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_547_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_557_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_568_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_578_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_588_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_598_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_608_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_618_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_628_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_639_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_649_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_659_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_669_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_679_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_689_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_699_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_709_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_720_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_730_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_740_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_750_1
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_010_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_020_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_030_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_041_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_051_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_061_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_071_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_081_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_091_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_101_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_111_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_122_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_132_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_142_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_152_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_162_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_172_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_182_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_193_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_203_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_213_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_223_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_233_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_243_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_253_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_264_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_274_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_284_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_294_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_304_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_314_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_324_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_334_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_345_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_355_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_365_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_375_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_385_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_395_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_405_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_416_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_426_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_436_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_446_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_456_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_466_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_476_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_486_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_517_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_527_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_537_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_547_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_557_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_568_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_578_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_588_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_598_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_608_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_618_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_628_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_639_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_649_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_659_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_669_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_679_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_689_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_699_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_709_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_720_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_730_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_740_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_750_2
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_010_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_020_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_030_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_041_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_051_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_061_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_071_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_081_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_091_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_101_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_111_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_122_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_132_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_142_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_152_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_162_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_172_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_182_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_193_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_203_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_213_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_223_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_233_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_243_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_253_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_264_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_274_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_284_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_294_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_304_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_314_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_324_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_334_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_345_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_355_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_365_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_375_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_385_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_395_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_405_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_416_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_426_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_436_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_446_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_456_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_466_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_476_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_486_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_517_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_527_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_537_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_547_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_557_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_568_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_578_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_588_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_598_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_608_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_618_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_628_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_639_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_649_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_659_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_669_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_679_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_689_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_699_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_709_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_720_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_730_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_740_3
+Accuracy: 0.3763440860215054
+
+Feature: lag1_freq_750_3
+Accuracy: 0.3763440860215054
+
+Feature: mean_0
+Accuracy: 0.3763440860215054
+
+Feature: mean_1
+Accuracy: 0.3763440860215054
+
+Feature: mean_2
+Accuracy: 0.3763440860215054
+
+Feature: mean_3
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_h2h1_0
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_h2h1_1
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_h2h1_2
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_h2h1_3
+Accuracy: 0.3763440860215054
+
+Feature: mean_q1_0
+Accuracy: 0.3763440860215054
+
+Feature: mean_q1_1
+Accuracy: 0.3763440860215054
+
+Feature: mean_q1_2
+Accuracy: 0.3763440860215054
+
+Feature: mean_q1_3
+Accuracy: 0.3763440860215054
+
+Feature: mean_q2_0
+Accuracy: 0.3763440860215054
+
+Feature: mean_q2_1
+Accuracy: 0.3763440860215054
+
+Feature: mean_q2_2
+Accuracy: 0.3763440860215054
+
+Feature: mean_q2_3
+Accuracy: 0.3763440860215054
+
+Feature: mean_q3_0
+Accuracy: 0.3763440860215054
+
+Feature: mean_q3_1
+Accuracy: 0.3763440860215054
+
+Feature: mean_q3_2
+Accuracy: 0.3763440860215054
+
+Feature: mean_q3_3
+Accuracy: 0.3763440860215054
+
+Feature: mean_q4_0
+Accuracy: 0.3763440860215054
+
+Feature: mean_q4_1
+Accuracy: 0.3763440860215054
+
+Feature: mean_q4_2
+Accuracy: 0.3763440860215054
+
+Feature: mean_q4_3
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q1q2_0
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q1q2_1
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q1q2_2
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q1q2_3
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q1q3_0
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q1q3_1
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q1q3_2
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q1q3_3
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q1q4_0
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q1q4_1
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q1q4_2
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q1q4_3
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q2q3_0
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q2q3_1
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q2q3_2
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q2q3_3
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q2q4_0
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q2q4_1
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q2q4_2
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q2q4_3
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q3q4_0
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q3q4_1
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q3q4_2
+Accuracy: 0.3763440860215054
+
+Feature: mean_d_q3q4_3
+Accuracy: 0.3763440860215054
+
+Feature: std_0
+Accuracy: 0.3763440860215054
+
+Feature: std_1
+Accuracy: 0.3763440860215054
+
+Feature: std_2
+Accuracy: 0.3763440860215054
+
+Feature: std_3
+Accuracy: 0.3763440860215054
+
+Feature: std_d_h2h1_0
+Accuracy: 0.3763440860215054
+
+Feature: std_d_h2h1_1
+Accuracy: 0.3763440860215054
+
+Feature: std_d_h2h1_2
+Accuracy: 0.3763440860215054
+
+Feature: std_d_h2h1_3
+Accuracy: 0.3763440860215054
+
+Feature: skew_0
+Accuracy: 0.3763440860215054
+
+Feature: skew_1
+Accuracy: 0.3763440860215054
+
+Feature: skew_2
+Accuracy: 0.3763440860215054
+
+Feature: skew_3
+Accuracy: 0.3763440860215054
+
+Feature: kurt_0
+Accuracy: 0.3763440860215054
+
+Feature: kurt_1
+Accuracy: 0.3763440860215054
+
+Feature: kurt_2
+Accuracy: 0.3763440860215054
+
+Feature: kurt_3
+Accuracy: 0.3763440860215054
+
+Feature: max_0
+Accuracy: 0.3763440860215054
+
+Feature: max_1
+Accuracy: 0.3763440860215054
+
+Feature: max_2
+Accuracy: 0.3763440860215054
+
+Feature: max_3
+Accuracy: 0.3763440860215054
+
+Feature: max_d_h2h1_0
+Accuracy: 0.3763440860215054
+
+Feature: max_d_h2h1_1
+Accuracy: 0.3763440860215054
+
+Feature: max_d_h2h1_2
+Accuracy: 0.3763440860215054
+
+Feature: max_d_h2h1_3
+Accuracy: 0.3763440860215054
+
+Feature: max_q1_0
+Accuracy: 0.3763440860215054
+
+Feature: max_q1_1
+Accuracy: 0.3763440860215054
+
+Feature: max_q1_2
+Accuracy: 0.3763440860215054
+
+Feature: max_q1_3
+Accuracy: 0.3763440860215054
+
+Feature: max_q2_0
+Accuracy: 0.3763440860215054
+
+Feature: max_q2_1
+Accuracy: 0.3763440860215054
+
+Feature: max_q2_2
+Accuracy: 0.3763440860215054
+
+Feature: max_q2_3
+Accuracy: 0.3763440860215054
+
+Feature: max_q3_0
+Accuracy: 0.3763440860215054
+
+Feature: max_q3_1
+Accuracy: 0.3763440860215054
+
+Feature: max_q3_2
+Accuracy: 0.3763440860215054
+
+Feature: max_q3_3
+Accuracy: 0.3763440860215054
+
+Feature: max_q4_0
+Accuracy: 0.3763440860215054
+
+Feature: max_q4_1
+Accuracy: 0.3763440860215054
+
+Feature: max_q4_2
+Accuracy: 0.3763440860215054
+
+Feature: max_q4_3
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q1q2_0
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q1q2_1
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q1q2_2
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q1q2_3
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q1q3_0
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q1q3_1
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q1q3_2
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q1q3_3
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q1q4_0
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q1q4_1
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q1q4_2
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q1q4_3
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q2q3_0
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q2q3_1
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q2q3_2
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q2q3_3
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q2q4_0
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q2q4_1
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q2q4_2
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q2q4_3
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q3q4_0
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q3q4_1
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q3q4_2
+Accuracy: 0.3763440860215054
+
+Feature: max_d_q3q4_3
+Accuracy: 0.3763440860215054
+
+Feature: min_0
+Accuracy: 0.3763440860215054
+
+Feature: min_1
+Accuracy: 0.3763440860215054
+
+Feature: min_2
+Accuracy: 0.3763440860215054
+
+Feature: min_3
+Accuracy: 0.3763440860215054
+
+Feature: min_d_h2h1_0
+Accuracy: 0.3763440860215054
+
+Feature: min_d_h2h1_1
+Accuracy: 0.3763440860215054
+
+Feature: min_d_h2h1_2
+Accuracy: 0.3763440860215054
+
+Feature: min_d_h2h1_3
+Accuracy: 0.3763440860215054
+
+Feature: min_q1_0
+Accuracy: 0.3763440860215054
+
+Feature: min_q1_1
+Accuracy: 0.3763440860215054
+
+Feature: min_q1_2
+Accuracy: 0.3763440860215054
+
+Feature: min_q1_3
+Accuracy: 0.3763440860215054
+
+Feature: min_q2_0
+Accuracy: 0.3763440860215054
+
+Feature: min_q2_1
+Accuracy: 0.3763440860215054
+
+Feature: min_q2_2
+Accuracy: 0.3763440860215054
+
+Feature: min_q2_3
+Accuracy: 0.3763440860215054
+
+Feature: min_q3_0
+Accuracy: 0.3763440860215054
+
+Feature: min_q3_1
+Accuracy: 0.3763440860215054
+
+Feature: min_q3_2
+Accuracy: 0.3763440860215054
+
+Feature: min_q3_3
+Accuracy: 0.3763440860215054
+
+Feature: min_q4_0
+Accuracy: 0.3763440860215054
+
+Feature: min_q4_1
+Accuracy: 0.3763440860215054
+
+Feature: min_q4_2
+Accuracy: 0.3763440860215054
+
+Feature: min_q4_3
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q1q2_0
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q1q2_1
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q1q2_2
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q1q2_3
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q1q3_0
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q1q3_1
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q1q3_2
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q1q3_3
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q1q4_0
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q1q4_1
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q1q4_2
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q1q4_3
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q2q3_0
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q2q3_1
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q2q3_2
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q2q3_3
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q2q4_0
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q2q4_1
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q2q4_2
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q2q4_3
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q3q4_0
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q3q4_1
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q3q4_2
+Accuracy: 0.3763440860215054
+
+Feature: min_d_q3q4_3
+Accuracy: 0.3763440860215054
+
+Feature: covM_0_0
+Accuracy: 0.3763440860215054
+
+Feature: covM_0_1
+Accuracy: 0.3763440860215054
+
+Feature: covM_0_2
+Accuracy: 0.3763440860215054
+
+Feature: covM_0_3
+Accuracy: 0.3763440860215054
+
+Feature: covM_1_1
+Accuracy: 0.3763440860215054
+
+Feature: covM_1_2
+Accuracy: 0.3763440860215054
+
+Feature: covM_1_3
+Accuracy: 0.3763440860215054
+
+Feature: covM_2_2
+Accuracy: 0.3763440860215054
+
+Feature: covM_2_3
+Accuracy: 0.3763440860215054
+
+Feature: covM_3_3
+Accuracy: 0.3763440860215054
+
+Feature: eigenval_0
+Accuracy: 0.3763440860215054
+
+Feature: eigenval_1
+Accuracy: 0.3763440860215054
+
+Feature: eigenval_2
+Accuracy: 0.3763440860215054
+
+Feature: eigenval_3
+Accuracy: 0.3763440860215054
+
+Feature: logcovM_0_0
+Accuracy: 0.3763440860215054
+
+Feature: logcovM_0_1
+Accuracy: 0.3763440860215054
+
+Feature: logcovM_0_2
+Accuracy: 0.3763440860215054
+
+Feature: logcovM_0_3
+Accuracy: 0.3763440860215054
+
+Feature: logcovM_1_1
+Accuracy: 0.3763440860215054
+
+Feature: logcovM_1_2
+Accuracy: 0.3763440860215054
+
+Feature: logcovM_1_3
+Accuracy: 0.3763440860215054
+
+Feature: logcovM_2_2
+Accuracy: 0.3763440860215054
+
+Feature: logcovM_2_3
+Accuracy: 0.3763440860215054
+
+Feature: logcovM_3_3
+Accuracy: 0.3763440860215054
+
+Feature: topFreq_1_0
+Accuracy: 0.44623655913978494
+
+Feature: topFreq_2_0
+Accuracy: 0.42473118279569894
+
+Feature: topFreq_3_0
+Accuracy: 0.3696236559139785
+
+Feature: topFreq_4_0
+Accuracy: 0.4153225806451613
+
+Feature: topFreq_5_0
+Accuracy: 0.3803763440860215
+
+Feature: topFreq_6_0
+Accuracy: 0.42473118279569894
+
+Feature: topFreq_7_0
+Accuracy: 0.3817204301075269
+
+Feature: topFreq_8_0
+Accuracy: 0.40053763440860213
+
+Feature: topFreq_9_0
+Accuracy: 0.3682795698924731
+
+Feature: topFreq_10_0
+Accuracy: 0.3790322580645161
+
+Feature: topFreq_1_1
+Accuracy: 0.4032258064516129
+
+Feature: topFreq_2_1
+Accuracy: 0.42338709677419356
+
+Feature: topFreq_3_1
+Accuracy: 0.3629032258064516
+
+Feature: topFreq_4_1
+Accuracy: 0.364247311827957
+
+Feature: topFreq_5_1
+Accuracy: 0.38306451612903225
+
+Feature: topFreq_6_1
+Accuracy: 0.3803763440860215
+
+Feature: topFreq_7_1
+Accuracy: 0.3655913978494624
+
+Feature: topFreq_8_1
+Accuracy: 0.3736559139784946
+
+Feature: topFreq_9_1
+Accuracy: 0.3951612903225806
+
+Feature: topFreq_10_1
+Accuracy: 0.3655913978494624
+
+Feature: topFreq_1_2
+Accuracy: 0.4475806451612903
+
+Feature: topFreq_2_2
+Accuracy: 0.4368279569892473
+
+Feature: topFreq_3_2
+Accuracy: 0.4637096774193548
+
+Feature: topFreq_4_2
+Accuracy: 0.4825268817204301
+
+Feature: topFreq_5_2
+Accuracy: 0.5
+
+Feature: topFreq_6_2
+Accuracy: 0.5147849462365591
+
+Feature: topFreq_7_2
+Accuracy: 0.5282258064516129
+
+Feature: topFreq_8_2
+Accuracy: 0.4717741935483871
+
+Feature: topFreq_9_2
+Accuracy: 0.4543010752688172
+
+Feature: topFreq_10_2
+Accuracy: 0.47043010752688175
+
+Feature: topFreq_1_3
+Accuracy: 0.385752688172043
+
+Feature: topFreq_2_3
+Accuracy: 0.4153225806451613
+
+Feature: topFreq_3_3
+Accuracy: 0.41263440860215056
+
+Feature: topFreq_4_3
+Accuracy: 0.3736559139784946
+
+Feature: topFreq_5_3
+Accuracy: 0.38844086021505375
+
+Feature: topFreq_6_3
+Accuracy: 0.3951612903225806
+
+Feature: topFreq_7_3
+Accuracy: 0.385752688172043
+
+Feature: topFreq_8_3
+Accuracy: 0.3575268817204301
+
+Feature: topFreq_9_3
+Accuracy: 0.3629032258064516
+
+Feature: topFreq_10_3
+Accuracy: 0.37231182795698925
+
+Feature: freq_010_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_020_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_030_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_041_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_051_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_061_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_071_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_081_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_091_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_101_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_111_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_122_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_132_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_142_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_152_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_162_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_172_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_182_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_193_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_203_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_213_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_223_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_233_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_243_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_253_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_264_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_274_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_284_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_294_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_304_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_314_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_324_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_334_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_345_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_355_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_365_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_375_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_385_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_395_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_405_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_416_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_426_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_436_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_446_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_456_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_466_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_476_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_486_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_517_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_527_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_537_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_547_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_557_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_568_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_578_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_588_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_598_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_608_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_618_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_628_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_639_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_649_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_659_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_669_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_679_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_689_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_699_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_709_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_720_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_730_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_740_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_750_0
+Accuracy: 0.3763440860215054
+
+Feature: freq_010_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_020_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_030_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_041_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_051_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_061_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_071_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_081_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_091_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_101_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_111_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_122_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_132_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_142_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_152_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_162_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_172_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_182_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_193_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_203_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_213_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_223_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_233_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_243_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_253_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_264_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_274_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_284_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_294_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_304_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_314_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_324_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_334_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_345_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_355_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_365_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_375_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_385_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_395_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_405_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_416_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_426_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_436_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_446_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_456_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_466_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_476_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_486_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_517_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_527_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_537_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_547_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_557_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_568_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_578_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_588_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_598_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_608_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_618_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_628_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_639_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_649_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_659_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_669_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_679_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_689_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_699_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_709_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_720_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_730_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_740_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_750_1
+Accuracy: 0.3763440860215054
+
+Feature: freq_010_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_020_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_030_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_041_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_051_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_061_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_071_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_081_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_091_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_101_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_111_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_122_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_132_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_142_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_152_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_162_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_172_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_182_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_193_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_203_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_213_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_223_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_233_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_243_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_253_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_264_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_274_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_284_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_294_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_304_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_314_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_324_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_334_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_345_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_355_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_365_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_375_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_385_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_395_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_405_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_416_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_426_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_436_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_446_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_456_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_466_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_476_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_486_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_517_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_527_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_537_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_547_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_557_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_568_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_578_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_588_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_598_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_608_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_618_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_628_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_639_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_649_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_659_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_669_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_679_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_689_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_699_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_709_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_720_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_730_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_740_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_750_2
+Accuracy: 0.3763440860215054
+
+Feature: freq_010_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_020_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_030_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_041_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_051_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_061_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_071_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_081_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_091_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_101_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_111_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_122_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_132_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_142_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_152_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_162_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_172_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_182_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_193_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_203_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_213_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_223_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_233_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_243_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_253_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_264_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_274_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_284_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_294_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_304_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_314_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_324_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_334_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_345_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_355_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_365_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_375_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_385_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_395_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_405_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_416_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_426_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_436_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_446_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_456_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_466_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_476_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_486_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_517_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_527_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_537_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_547_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_557_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_568_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_578_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_588_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_598_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_608_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_618_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_628_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_639_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_649_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_659_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_669_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_679_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_689_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_699_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_709_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_720_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_730_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_740_3
+Accuracy: 0.3763440860215054
+
+Feature: freq_750_3
+Accuracy: 0.3763440860215054
+
+Number of Remaining Features: 39
