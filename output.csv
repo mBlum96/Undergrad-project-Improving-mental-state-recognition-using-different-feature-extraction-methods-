@@ -1,0 +1,9 @@
+Feature,Label,Precision,Recall,F1-Score,Support
+lag1_eigenval_0,0.0,0.44,0.99,0.61,177
+lag1_eigenval_0,1.0,0.03,0.01,0.01,163
+lag1_eigenval_0,2.0,0.88,0.38,0.53,156
+lag1_eigenval_0,Average,0.45,,,
+eigenval_0,0.0,0.45,0.99,0.62,177
+eigenval_0,1.0,0.06,0.01,0.02,163
+eigenval_0,2.0,0.87,0.37,0.52,156
+eigenval_0,Average,0.45999999999999996,,,

@@ -1,12 +1,12 @@
 from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import classification_report
 
-def run_naive_bayes(train, test, selected_features):
-    X_train = train[selected_features]
-    y_train = train['target']
+def run_naive_bayes(train, test, selected_feature):
+    X_train = train[[selected_feature]]
+    y_train = train['Label']
 
-    X_test = test[selected_features]
-    y_test = test['target']
+    X_test = test[[selected_feature]]
+    y_test = test['Label']
 
     gnb = GaussianNB()
     gnb.fit(X_train, y_train)
